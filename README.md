@@ -13,5 +13,4 @@ Apache Spark is a powerful distributed computing framework that excels at large-
 
 # Attributions
 
-1. Spark: The Definitive Guide by Bill Chambers and Matei Zaharia (O’Reilly). Copyright 2018 Databricks, Inc., 978-1-491-91221-8
-2. Spark in Action, Second Edition by Jean-Georges Perrin
+1. Learning Spark, 2nd Edition, by Jules S. Damji, Brooke Wenig, Tathagata Das, and Denny Lee. Copyright 2020 Databricks, Inc., 978-1-492-05004-9
