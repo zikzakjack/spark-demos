@@ -5,6 +5,7 @@ Apache Spark is a powerful distributed computing framework that excels at large-
 
 # Features
 
+- [Spark Basics](00-spark-basics.ipynb)
 - [Spark Dataframes](01-spark-dataframes.ipynb)
 - [Spark SQL](02-spark-sql.ipynb)
 - [Spark Structured Streaming](03-spark-structured-streaming.ipynb)
